@@ -9,7 +9,7 @@ import img2 from "./2.png"
 var date = new Date();
 var d = date.getMinutes();
 var img;
-if (d == 36){
+if (d%2 == 1){
   img = img1;
 }
 else{
