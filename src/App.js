@@ -13,7 +13,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={"https://media.giphy.com/media/oh6TVsqQU1IvOMgsqr/giphy.gif"} alt="logo" />
-       <h2> trust in sark{d}</h2>
+       <h2> trust in sark</h2>
 
       </header>
     </div>
